@@ -7,7 +7,7 @@ p {
 .my-block {
   /* width: 400px; */
   height: 300px;
-  border: 3px solid black;
+  border: 3px solid rgb(0, 0, 0);
   background-color: darkolivegreen;
   padding: 10px;
   margin: 30px;
