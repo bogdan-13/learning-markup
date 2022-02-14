@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+}
+
+div {
+  border: 2px solid black;
+  margin: 5px;
+  padding: 10px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.wrapper {
+  background-color: #dfe49f;
+  width: 80vw;
+  height: 40vh;
+}
+
+.util {
+  background-color: grey;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+}
+
+.first {
+  background-color: purple;
+  width: 50%;
+  height: 80%;
+  float: right;
+}
+
+.second {
+  font-size: 1.5rem;
+  background-color: darkgreen;
+}
+
+.second p {
+  font-size: 1.5em;
+  color: white;
+}
+
+.some {
+  height: 90vh;
+  width: 50vw;
+  font-size: 1.2em;
+  text-align: center;
+  line-height: 2em;
+  background-color: chocolate;
+}
