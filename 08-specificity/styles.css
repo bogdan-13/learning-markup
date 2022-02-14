@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  background-color: #3c2c6e;
+}
+
+div {
+  border: 2px solid black;
+  padding: 10px;
+  margin: 5px;
+  background-color: #360707;
+  color: #bbb;
+}
+
+.element {
+  color: #ec7777;
+  background-color: #0e470b;
+}
+
+.wrapper .element {
+  color: #c5cf3d;
+}
+
+.big {
+  background-color: #232358;
+}
+
+.element.big {
+  color: #0b826b;
+}
+
+#second {
+  background-color: #5c0d52;
+}
